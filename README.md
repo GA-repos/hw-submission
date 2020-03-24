@@ -1,4 +1,4 @@
-# ![](images/frontend.png)
+# ![](images/ga.png)
 
 ## Homework Submission Instructions
 
@@ -42,3 +42,5 @@ Questions? Comments? Add them here:
 
 
 ```
+
+13. Then hit `Create pull requests` and you are done!
