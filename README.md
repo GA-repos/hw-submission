@@ -48,7 +48,7 @@ Questions? Comments? Add them here:
 
 ### Oh no! I cloned down the repository before forking it!! 😱
 
-No worries! This happens all the time, and if you try to push to one of our organization's repositories, you'll probably get a message that says something along the lines of "Fatal: Access to <url> denied." If you need to change the remote repository associated with your local git repository, just use the following steps: 
+No worries! This happens all the time, and if you try to push to one of our organization's repositories, you'll probably get a message that says something along the lines of "Fatal: Access to `url` denied." If you need to change the remote repository associated with your local git repository, just use the following steps: 
 
 1. Fork the repo to your own account and copy the SSH URL. It should have your username instead of sei-921 in the URL. 
 2. In your local repository's folder, use the following command: `git remote set-url origin <paste SSH URL>` .
