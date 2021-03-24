@@ -18,7 +18,9 @@
 
 4. Now you are ready to make changes to your repo! When you are finished you can run your commands to `add` and `commit` as you normally would.
 
-5. To push up to your forked repo, you use the command `git push origin <name-of-your-branch>`. We are pushing the work that we completed on the other branch up to the remote branch on Github Enterprise.
+5. To push up to your forked repo, you use the command `git push origin master`. We are pushing the work that we completed on the other branch up to the remote branch on Github Enterprise.
+
+### Creating the Pull Request
 
 6. Now navigate to the original repository that your forked from.
 
@@ -50,6 +52,8 @@ Questions? Comments? Add them here:
 
 No worries! This happens all the time, and if you try to push to one of our organization's repositories, you'll probably get a message that says something along the lines of "Fatal: Access to `url` denied." If you need to change the remote repository associated with your local git repository, just use the following steps: 
 
-1. Fork the repo to your own account and copy the SSH URL. It should have your username instead of sei-921 in the URL. 
-2. In your local repository's folder, use the following command: `git remote set-url origin <paste SSH URL>` .
-3. Add, commit, and push your code to your remote repo. You should see the changes on your forked branch! 
+1. Fork the repo to your own account and copy the SSH URL. It should have your username instead of flex-323 in the URL. 
+2. Copy out any the files you created to your desktop.
+3. On your computer, delete the original repository.
+4. Now clone down the repo that you forked.
+5. Copy the files from you desktop into the new repo on your computer, then add commit and push and complete the pull request steps.
